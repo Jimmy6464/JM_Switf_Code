@@ -1,0 +1,6 @@
+module Pods_JM_Swift {
+  umbrella header "Pods-JM_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
