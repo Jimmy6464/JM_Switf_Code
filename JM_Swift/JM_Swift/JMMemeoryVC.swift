@@ -24,7 +24,10 @@ class JMMemeoryVC: UIViewController {
         view = nil
         window = nil
         
-        
+        var ip = "111"
+        let ne_ip = "333" + ip
+        ip = "222"
+        print(ne_ip)
         
     }
  
